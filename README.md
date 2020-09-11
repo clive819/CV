@@ -1,7 +1,7 @@
 # Chun-Hao Liu
 _a.k.a. Clive Liu_
 
-_Currently pursuing my Master’s degree in Computer Science and Engineering. Experienced in the field of **Computer Vision**, **Artificial Intelligenc**e, and **iOS Development**. Graduating in June 2021, seeking fresh graduate opportunities in the related areas._ <br>
+_Currently pursuing my Master’s degree in Computer Science and Engineering. Experienced in the field of **Computer Vision**, **Artificial Intelligence**, and **iOS Development**. Graduating in June 2021, seeking fresh graduate opportunities in the related areas._ <br>
 
 [Email](mailto:clive819@gmail.com) / [Website](https://clive819.github.io/CV/) / [LinkedIn](https://www.linkedin.com/in/clive819/) / [GitHub](https://github.com/clive819) 
 <br><br>
@@ -19,7 +19,7 @@ _Currently pursuing my Master’s degree in Computer Science and Engineering. Ex
 <br><br>
 
 **Undergraduate Research Assistant** @[Yuan Ze University](https://www.yzu.edu.tw/index.php/en-us/) _(Apr 2018 - Dec 2018)_ <br>
-- Led a team of 5 in developing a system that enables contact-free dynamic heart-rate measurement, which eliminates the discomforts caused by physical contact.
+- Led a team of 5 in developing a system that enables **contact-free dynamic heart-rate measurement**, which eliminates the discomforts caused by physical contact.
 - Developed an **android** app that streams the camera feed to our system to make predictions, which makes our system portable.
 - [Demo video (no intense movement)](http://bit.ly/33BnOzu)
 - [Demo video (subject on a treadmill)](http://bit.ly/31mfAJO)
@@ -52,7 +52,6 @@ _Master of Science - MS, Computer Science & Engineering_ (Sep 2019 - Expected 20
 
 **Yuan Ze University, Taoyuan, Taiwan**<br>
 _Bachelor of Science - BS, Electrical Engineering_ (Sep 2015 - Jun 2019)
-
 - **Related Coursework:** Computer Vision and Its Application to Home Care Services, Introduction to Multimedia Information System, Machine Learning and its Deep Structure, Mobile Big Data Analysis and Machine Learning, Neural Networks, Probability for Engineers
 <br><br>
 
