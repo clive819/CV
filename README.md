@@ -8,7 +8,8 @@ _Currently pursuing my Master’s degree in Computer Science and Engineering. Ex
 
 ## 👨‍💻 Experiences
 
-**Internship in Artificial Intelligence** @[Industrial Technology Research Institute](https://www.itri.org.tw/english/index.aspx) _(Jun 2020 - Aug 2020)_ <br>
+**Internship in Artificial Intelligence** @[Industrial Technology Research Institute](https://www.itri.org.tw/english/index.aspx) <br>
+_(Jun 2020 - Aug 2020)_ <br>
 
 - Collaborated with a team of 4 in developing a fully automated surveillance system, which prevents the crucial assets from being swapped in transit, by utilizing **PyTorch** and **OpenCV**.
 - Integrated the developed system into **iOS** devices.
@@ -18,14 +19,16 @@ _Currently pursuing my Master’s degree in Computer Science and Engineering. Ex
 - Improved the server initialization time by 2.6x on average (from 2.00 to 0.75 seconds).
 <br><br>
 
-**Undergraduate Research Assistant** @[Yuan Ze University](https://www.yzu.edu.tw/index.php/en-us/) _(Apr 2018 - Dec 2018)_ <br>
+**Undergraduate Research Assistant** @[Yuan Ze University](https://www.yzu.edu.tw/index.php/en-us/) <br>
+_(Apr 2018 - Dec 2018)_ <br>
 - Led a team of 5 in developing a system that enables **contact-free dynamic heart-rate measurement**, which eliminates the discomforts caused by physical contact.
 - Developed an **android** app that streams the camera feed to our system to make predictions, which makes our system portable.
 - [Demo video (no intense movement)](http://bit.ly/33BnOzu)
 - [Demo video (subject on a treadmill)](http://bit.ly/31mfAJO)
 <br><br>
 
-**iOS Contractor** @[imorev](http://imorev.cc) _(Nov 2017)_ <br>
+**iOS Contractor** @[imorev](http://imorev.cc) <br>
+_(Nov 2017)_ <br>
 
 - Developed an **iOS** framework that reads images from the camera and locates tailor-made highlighter in images using **OpenCV** and convolution neural network.
 - Used **C++** to handle low-level feature extraction and **Swift** to handle UI implementation. And then **Objective-C** acts as the bridge between **Swift** and **C++**.
@@ -45,13 +48,16 @@ _Currently pursuing my Master’s degree in Computer Science and Engineering. Ex
 ## 📖 Education
 
 **Santa Clara University, Santa Clara, CA, USA** _GPA: 3.82_<br>
-_Master of Science - MS, Computer Science & Engineering_ (Sep 2019 - Expected 2021)
+_Master of Science - MS, Computer Science & Engineering_ <br>
+_(Sep 2019 - Expected 2021)_
 
 - **Related Coursework:** Operating Systems, Algorithms, Artificial Intelligence, Distributed Systems, Machine Learning, Information Security Management
 <br>
 
 **Yuan Ze University, Taoyuan, Taiwan**<br>
-_Bachelor of Science - BS, Electrical Engineering_ (Sep 2015 - Jun 2019)
+_Bachelor of Science - BS, Electrical Engineering_ <br>
+_(Sep 2015 - Jun 2019)_
+
 - **Related Coursework:** Computer Vision and Its Application to Home Care Services, Introduction to Multimedia Information System, Machine Learning and its Deep Structure, Mobile Big Data Analysis and Machine Learning, Neural Networks, Probability for Engineers
 <br><br>
 
