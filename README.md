@@ -62,16 +62,19 @@ _(Sep 2015 - Jun 2019)_
 <br><br>
 
 ## 📌 Projects
-**Distributed Hash-table** _(May 2020)_
-- Created a fault-tolerant distributed key/value storage system based on Raft Consensus Algorithm written in Python.
+**Distributed Hash-table** <br>
+_(May 2020)_
+- Created a fault-tolerant distributed key/value storage system based on **Raft Consensus Algorithm** written in **Python**.
 <br>
 
-**Speeding Camera TW** _(Apr 2020)_
+**Speeding Camera TW** <br>
+_(Apr 2020)_
 
-- Developed an iOS app that notifies the driver if there is a speeding camera ahead.
+- Developed an **iOS** app that notifies the driver if there is a speeding camera ahead.
 <br>
 
-**8051 Microcontroller System** _(Oct 2016 - Dec 2016)_
+**8051 Microcontroller System** <br>
+_(Oct 2016 - Dec 2016)_
 
 - Built a microcontroller system that is capable of handling keyboard inputs, calculating basic arithmetic operations, displaying results onto LED buffers, and send/receive square waves to communicate with other microcontrollers.
 <br><br>
