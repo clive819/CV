@@ -78,6 +78,3 @@ _(Oct 2016 - Dec 2016)_
 
 - Built a microcontroller system that is capable of handling keyboard inputs, calculating basic arithmetic operations, displaying results onto LED buffers, and send/receive square waves to communicate with other microcontrollers.
 <br><br>
-
-
-
