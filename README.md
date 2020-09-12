@@ -6,6 +6,7 @@ _Currently pursuing my Master’s degree in Computer Science and Engineering. Ex
 [Email](mailto:clive819@gmail.com) / [Website](https://clive819.github.io/) / [LinkedIn](https://www.linkedin.com/in/clive819/) / [GitHub](https://github.com/clive819) 
 <br><br>
 
+***
 ## 👨‍💻 Experiences
 
 **Internship in Artificial Intelligence** @[Industrial Technology Research Institute](https://www.itri.org.tw/english/index.aspx) <br>
@@ -35,6 +36,7 @@ _(Nov 2017)_ <br>
 - Available in the [App Store](https://apple.co/31rRZry)
 <br><br>
 
+***
 ## 🛠 Skills
 - **Languages**: 
 	- **Swift**: iOS Development, macOS Development, CoreML
@@ -45,6 +47,7 @@ _(Nov 2017)_ <br>
 - **Technologies & Others**: Git, Regular Expression
 <br><br>
 
+***
 ## 📖 Education
 
 **Santa Clara University, Santa Clara, CA, USA** _GPA: 3.82_<br>
@@ -61,6 +64,7 @@ _(Sep 2015 - Jun 2019)_
 - **Related Coursework:** Computer Vision and Its Application to Home Care Services, Introduction to Multimedia Information System, Machine Learning and its Deep Structure, Mobile Big Data Analysis and Machine Learning, Neural Networks, Probability for Engineers
 <br><br>
 
+***
 ## 📌 Projects
 **Distributed Hash-table** <br>
 _(May 2020)_
