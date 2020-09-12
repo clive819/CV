@@ -3,7 +3,7 @@ _a.k.a. Clive Liu_
 
 _Currently pursuing my Master’s degree in Computer Science and Engineering. Experienced in the fields of **Computer Vision**, **Artificial Intelligence**, and **iOS Development**. Graduating in June 2021, seeking fresh graduate opportunities in the related areas._ <br>
 
-[Email](mailto:clive819@gmail.com) / [Website](https://clive819.github.io/CV/) / [LinkedIn](https://www.linkedin.com/in/clive819/) / [GitHub](https://github.com/clive819) 
+[Email](mailto:clive819@gmail.com) / [Website](https://clive819.github.io/) / [LinkedIn](https://www.linkedin.com/in/clive819/) / [GitHub](https://github.com/clive819) 
 <br><br>
 
 ## 👨‍💻 Experiences
