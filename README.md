@@ -37,6 +37,14 @@ _(Nov 2017)_ <br>
 <br><br>
 
 ***
+## 📜 Certifications
+![triplebyte](triplebyte.png)**Triplebyte Certified iOS Engineer** <br>
+- **Issue Date**: Sep 13, 2020	
+- **Credential ID**: LqC1FdW
+- **Credential URL:** [https://triplebyte.com/tb/chun-hao-liu-ejmeqf8/certificate/track/ios](https://triplebyte.com/tb/chun-hao-liu-ejmeqf8/certificate/track/ios)
+<br><br>
+
+***
 ## 🛠 Skills
 - **Languages**: 
 	- **Swift**: iOS Development, macOS Development, CoreML
