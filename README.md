@@ -52,7 +52,7 @@ _(Nov 2017)_ <br>
 	- Others: C, C++, 8051 Assembly Language, Matlab, Objective-C, Java, Javascript
 - **Front-end Development**: HTML, CSS, Bootstrap
 - **Cloud Services**: Heroku, FloydHub, Firebase
-- **Technologies & Others**: Git, Regular Expression
+- **Technologies & Others**: Git, Regular Expression, Docker
 <br><br>
 
 ***
