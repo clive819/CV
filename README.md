@@ -49,7 +49,7 @@ _(Nov 2017)_ <br>
 - **Languages**: 
 	- **Swift**: iOS Development, macOS Development, CoreML
 	- **Python**: PyTorch, Keras, Tensorflow, OpenCV, Flask
-	- Others: C, C++, 8051 Assembly Language, Matlab, Objective-C, Java, Javascript
+	- Others: C, C++, 8051 Assembly Language, Matlab, Objective-C, Java, Javascript, Ruby
 - **Front-end Development**: HTML, CSS, Bootstrap
 - **Cloud Services**: Heroku, FloydHub, Firebase
 - **Technologies & Others**: Git, Regular Expression, Docker
@@ -62,7 +62,7 @@ _(Nov 2017)_ <br>
 _Master of Science - MS, Computer Science & Engineering_ <br>
 _(Sep 2019 - Expected 2021)_
 
-- **Related Coursework:** Operating Systems, Algorithms, Artificial Intelligence, Distributed Systems, Machine Learning, Information Security Management
+- **Related Coursework:** Operating Systems, Algorithms, Artificial Intelligence, Distributed Systems, Machine Learning, Information Security Management, Advanced Web Programming, Computer Graphics
 <br>
 
 **Yuan Ze University, Taoyuan, Taiwan**<br>
