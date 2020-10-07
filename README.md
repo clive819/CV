@@ -22,6 +22,7 @@ _(Jun 2020 - Aug 2020)_ <br>
 
 **Undergraduate Research Assistant** @[Yuan Ze University](https://www.yzu.edu.tw/index.php/en-us/) <br>
 _(Apr 2018 - Dec 2018)_ <br>
+
 - Led a team of 5 in developing a system that enables **contact-free dynamic heart-rate measurement**, which eliminates the discomforts caused by physical contact.
 - Developed an **android** app that streams the camera feed to our system to make predictions, which makes our system portable.
 - [Demo video (no intense movement)](http://bit.ly/33BnOzu)
@@ -34,14 +35,7 @@ _(Nov 2017)_ <br>
 - Developed an **iOS** framework that reads images from the camera and locates tailor-made highlighter in images using **OpenCV** and convolution neural network.
 - Used **C++** to handle low-level feature extraction and **Swift** to handle UI implementation. And then **Objective-C** acts as the bridge between **Swift** and **C++**.
 - Available in the [App Store](https://apple.co/31rRZry)
-<br><br>
-
-***
-## 📜 Certifications
-![triplebyte](triplebyte.png)**Triplebyte Certified iOS Engineer** <br>
-- **Issue Date**: Sep 13, 2020	
-- **Credential ID**: LqC1FdW
-- **Credential URL:** [https://triplebyte.com/tb/chun-hao-liu-ejmeqf8/certificate/track/ios](https://triplebyte.com/tb/chun-hao-liu-ejmeqf8/certificate/track/ios)
+- [Product Website](http://imorev.cc)
 <br><br>
 
 ***
@@ -74,19 +68,36 @@ _(Sep 2015 - Jun 2019)_
 
 ***
 ## 📌 Projects
+**Github Followers** <br>
+_(Oct 2020)_
+- Built a fully programmatic UI (no storyboard) iOS app that allows users to retrieve a list of followers for a certain Github user.
+- Utilized Smalltalk MVC design pattern to properly handle image loading.
+- [Project Link](https://github.com/clive819/GithubFollowers)
+<br>
+
 **Distributed Hash-table** <br>
 _(May 2020)_
 - Created a fault-tolerant distributed key/value storage system based on **Raft Consensus Algorithm** written in **Python**.
+- Addressed the issue of scalability, reliability, consistency, and fault-tolerance.
+- [Project Link](https://github.com/clive819/Raft)
 <br>
 
 **Speeding Camera TW** <br>
 _(Apr 2020)_
 
-- Developed an **iOS** app that notifies the driver if there is a speeding camera ahead.
+- Developed an **iOS** app that notifies the driver if there is a speeding camera ahead by using geofencing.
 <br>
 
 **8051 Microcontroller System** <br>
 _(Oct 2016 - Dec 2016)_
 
 - Built a microcontroller system that is capable of handling keyboard inputs, calculating basic arithmetic operations, displaying results onto LED buffers, and send/receive square waves to communicate with other microcontrollers.
+<br><br>
+
+***
+## 📜 Certifications
+![triplebyte](triplebyte.png)**Triplebyte Certified iOS Engineer** <br>
+- **Issue Date**: Sep 13, 2020	
+- **Credential ID**: LqC1FdW
+- **Credential URL:** [https://triplebyte.com/tb/chun-hao-liu-ejmeqf8/certificate/track/ios](https://triplebyte.com/tb/chun-hao-liu-ejmeqf8/certificate/track/ios)
 <br><br>
