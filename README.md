@@ -70,8 +70,8 @@ _(Sep 2015 - Jun 2019)_
 ## 📌 Projects
 **Github Followers** <br>
 _(Oct 2020)_
-- Built a fully programmatic UI (no storyboard) iOS app that allows users to retrieve a list of followers for a certain Github user.
-- Utilized Smalltalk MVC design pattern to properly handle image loading.
+- Built a fully programmatic UI (**no storyboard**) iOS app that allows users to retrieve a list of followers for a certain Github user.
+- Utilized **Smalltalk MVC** design pattern to properly handle image loading.
 - [Project Link](https://github.com/clive819/GithubFollowers)
 <br>
 
