@@ -13,6 +13,7 @@ _Currently pursuing my Master’s degree in Computer Science and Engineering. Ex
 _(Jun 2020 - Aug 2020)_ <br>
 
 - Collaborated with a team of 4 in developing a fully automated surveillance system, which prevents the crucial assets from being swapped in transit, by utilizing **PyTorch** and **OpenCV**.
+- Involved in development and configuration of test environment on **Docker containers**.
 - Integrated the developed system into **iOS** devices.
 - Designed a website to showcase our project result on **Taiwan Innovation technology Exhibition (TIE)** — an exhibition with 500+ research units from over 40 nations.
 - Responsible for configuring the **NVIDIA Jetson TX2** module, and deploy the developed system onto it.
