@@ -42,7 +42,7 @@ _(Nov 2017)_ <br>
 ***
 ## 🛠 Skills
 - **Languages**: 
-	- **Swift**: iOS Development, macOS Development, CoreML
+	- **Swift**: iOS Development, macOS Development, CoreML, SwiftUI, Storyboard
 	- **Python**: PyTorch, Keras, Tensorflow, OpenCV, Flask
 	- Others: C, C++, 8051 Assembly Language, Matlab, Objective-C, Java, Javascript, Ruby
 - **Front-end Development**: HTML, CSS, Bootstrap
