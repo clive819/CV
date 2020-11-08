@@ -15,7 +15,7 @@ _(Jun 2020 - Aug 2020)_ <br>
 - Collaborated with a team of 4 in developing a fully automated surveillance system, which prevents the crucial assets from being swapped in transit, by utilizing **PyTorch** and **OpenCV**.
 - Involved in development and configuration of test environment on **Docker containers**.
 - Integrated the developed system into **iOS** devices.
-- Designed a website to showcase our project result on **Taiwan Innovation technology Exhibition (TIE)** — an exhibition with 500+ research units from over 40 nations.
+- Designed a website to showcase our project result at the **Taiwan Innovation technology Exhibition (TIE)** — an exhibition with 500+ research units from over 40 nations.
 - Responsible for configuring the **NVIDIA Jetson TX2** module, and deploy the developed system onto it.
 - Improved the original database grouping algorithm’s performance by 6.27x on average (from 1.38 to 0.22 ms).
 - Improved the server initialization time by 2.6x on average (from 2.00 to 0.75 seconds).
