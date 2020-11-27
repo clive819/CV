@@ -42,9 +42,9 @@ _(Nov 2017)_ <br>
 ***
 ## 🛠 Skills
 - **Languages**: 
-	- **Swift**: iOS Development, macOS Development, CoreML, SwiftUI, Storyboard
+	- **Swift**: iOS Development, macOS Development, CoreML, Core Data, SwiftUI, Storyboard
 	- **Python**: PyTorch, Keras, Tensorflow, OpenCV, Flask
-	- Others: C, C++, 8051 Assembly Language, Matlab, Objective-C, Java, Javascript, Ruby
+	- Others: C, C++, 8051 Assembly Language, Matlab, Objective-C, Java, Javascript, Ruby, Ruby on Rails
 - **Front-end Development**: HTML, CSS, Bootstrap
 - **Cloud Services**: Heroku, FloydHub, Firebase
 - **Technologies & Others**: Git, Regular Expression, Docker
@@ -69,8 +69,18 @@ _(Sep 2015 - Jun 2019)_
 
 ***
 ## 📌 Projects
+**Split the Bill** <br>
+_(Nov 2020)_
+
+- Developed a bill-splitting iOS app.
+- Utilized **Vision** framework to recognize text in receipts.
+- Configured **many-to-many relationships** in **Core Data**.
+- [Project Link](https://github.com/clive819/Split-the-Bill)
+<br>
+
 **Github Followers** <br>
 _(Oct 2020)_
+
 - Built a fully programmatic UI (**no storyboard**) iOS app that allows users to retrieve a list of followers for a certain Github user.
 - Utilized **Smalltalk MVC** design pattern to properly handle image loading.
 - [Project Link](https://github.com/clive819/GithubFollowers)
@@ -78,6 +88,7 @@ _(Oct 2020)_
 
 **Distributed Hash-table** <br>
 _(May 2020)_
+
 - Created a fault-tolerant distributed key/value storage system based on **Raft Consensus Algorithm** written in **Python**.
 - Addressed the issue of scalability, reliability, consistency, and fault-tolerance.
 - [Project Link](https://github.com/clive819/Raft)
