@@ -70,7 +70,7 @@ _(Sep 2015 - Jun 2019)_
 ***
 ## 📌 Projects
 **Split the Bill** <br>
-_(Nov 2020)_
+_(Nov 2020 - Dec 2020)_
 
 - Developed a bill-splitting iOS app.
 - Utilized **Vision** framework to recognize text in receipts.
