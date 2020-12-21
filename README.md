@@ -53,14 +53,14 @@ _(Nov 2017)_ <br>
 ***
 ## 📖 Education
 
-**Santa Clara University, Santa Clara, CA, USA** _GPA: 3.82_<br>
+**Santa Clara University, Santa Clara, CA, USA** _GPA: 3.83_<br>
 _Master of Science - MS, Computer Science & Engineering_ <br>
 _(Sep 2019 - Expected 2021)_
 
 - **Related Coursework:** Operating Systems, Algorithms, Artificial Intelligence, Distributed Systems, Machine Learning, Information Security Management, Advanced Web Programming, Computer Graphics
 <br>
 
-**Yuan Ze University, Taoyuan, Taiwan**<br>
+**Yuan Ze University, Taoyuan, Taiwan** _GPA: 3.42_<br>
 _Bachelor of Science - BS, Electrical Engineering_ <br>
 _(Sep 2015 - Jun 2019)_
 
