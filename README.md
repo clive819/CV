@@ -55,9 +55,9 @@ _(Nov 2017)_ <br>
 
 **Santa Clara University, Santa Clara, CA, USA** _GPA: 3.83_<br>
 _Master of Science - MS, Computer Science & Engineering_ <br>
-_(Sep 2019 - Expected 2021)_
+_(Sep 2019 - Jun 2021)_
 
-- **Related Coursework:** Operating Systems, Algorithms, Artificial Intelligence, Distributed Systems, Machine Learning, Information Security Management, Advanced Web Programming, Computer Graphics
+- **Related Coursework:** Operating Systems, Algorithms, **Artificial Intelligence**, **Distributed Systems**, **Machine Learning**, Information Security Management, **Advanced Web Programming**, Computer Graphics, Computer Architecture (**ARM**), Image & Video Compression, **Deep Learning**
 <br>
 
 **Yuan Ze University, Taoyuan, Taiwan** _GPA: 3.42_<br>
