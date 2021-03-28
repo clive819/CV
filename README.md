@@ -53,7 +53,7 @@ _(Nov 2017)_ <br>
 ***
 ## 📖 Education
 
-**Santa Clara University, Santa Clara, CA, USA** _GPA: 3.83_<br>
+**Santa Clara University, Santa Clara, CA, USA** _GPA: 3.87_<br>
 _Master of Science - MS, Computer Science & Engineering_ <br>
 _(Sep 2019 - Jun 2021)_
 
