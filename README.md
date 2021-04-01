@@ -57,7 +57,7 @@ _(Nov 2017)_ <br>
 _Master of Science - MS, Computer Science & Engineering_ <br>
 _(Sep 2019 - Jun 2021)_
 
-- **Related Coursework:** Operating Systems, Algorithms, **Artificial Intelligence**, **Distributed Systems**, **Machine Learning**, Information Security Management, **Advanced Web Programming**, Computer Graphics, Computer Architecture (**ARM**), Image & Video Compression, **Deep Learning**
+- **Related Coursework:** Operating Systems, Algorithms, **Artificial Intelligence**, **Distributed Systems**, **Machine Learning**, Information Security Management, **Advanced Web Programming**, Computer Graphics, Computer Architecture (**ARM**), Image & Video Compression, Design Patterns
 <br>
 
 **Yuan Ze University, Taoyuan, Taiwan** _GPA: 3.42_<br>
